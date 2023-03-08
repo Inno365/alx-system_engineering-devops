@@ -1,2 +1,2 @@
 #!/bin/bash
-touch creat a file
+Prints absolute path directory
