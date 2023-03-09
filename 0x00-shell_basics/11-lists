@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lad */ .*/ ../boot 
+ls -al .*/ /boot | sort -k 1,1 -r
