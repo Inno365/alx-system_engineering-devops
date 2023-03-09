@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "mkdir my_dir" | bash echo "chmod 751 my_dir"
+echo "mkdir my_dir" | echo "chmod 751 my_dir"
