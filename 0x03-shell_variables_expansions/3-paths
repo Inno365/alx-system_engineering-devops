@@ -1,2 +1,2 @@
 #!/bin/bash
-file $(ls -lR | grep ^d | wc -l)
+file $(ls -l | grep ^d | wc -l)
