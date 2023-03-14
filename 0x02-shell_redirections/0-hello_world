@@ -1,2 +1,2 @@
 #!/bin/bash
-ech "Hello,\tworld.\n"
+echo "Hello World\n"
