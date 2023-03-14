@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "find . -type d | wc -l"
+echo $(ls -lR | grep ^d | wc -l)
